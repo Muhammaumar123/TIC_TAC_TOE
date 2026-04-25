@@ -10,9 +10,9 @@ A console-based Tic Tac Toe game built in C++ using OOP concepts.
 - The game detects wins across **rows, columns, and diagonals**
 
 ## Board Layout
-0 | 1 | 2
-3 | 4 | 5
-6 | 7 | 8
+0 | 1 | 2<br>
+3 | 4 | 5<br>
+6 | 7 | 8<br>
 
 ## Features
 
